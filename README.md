@@ -15,7 +15,6 @@ Este projeto foi desenvolvido com foco em boas práticas, componentização, org
 - ⚡ Nivo Charts (Line, Bar, Geography)
 - ⚡ FullCalendar
 - ⚡ Formik + Yup
-- ⚡
 - ⚡ React Router DOM v6
 - ⚡ Context API (tema claro/escuro)
 - ⚡ Icons MUI
